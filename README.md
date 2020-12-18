@@ -1,2 +1,2 @@
 # newopenhpsdr
-package for new protocol HPSDR radios
+Package of routines to allow the programming of the openhpsdr boards with the new protocol 
